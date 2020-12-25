@@ -2,7 +2,8 @@
   <html>
   <body>
     <header>
-      <h1>Header</h1>
+      <h1>Barebones Portfolio</h1>
+      <h2>HTML Project</h2>
     </header>
     <form>
       <label for="email">Email:</label><br>
