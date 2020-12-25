@@ -38,10 +38,11 @@
        </tr>
      </table>
      <video width="320" height="240" controls>
-       <source src="BabyCat.mp4" type="video/mp4" alt="Video of Cute Kitten">       
+       <source src="BabyCat.mp4" type="video/mp4" alt="Video of Cute Kitten">
+       <i>Your browser does not support the video tag.</i>
      </video>
-     <img src="merrychristmas.jpg" alt="Christmas" style="width:240px; height:240px;">
-     <img src="happyholidays.jpg" alt="Christmas" style="width:240px; height:240px;">
+     <img src="merrychristmas.jpg" alt="Christmas" style="width:100px; height:100px;">
+     <img src="happyholidays.jpg" alt="Christmas" style="width:100px; height:100px;">
      <footer>
        <p>By Deblina Hazra</p>  
      </footer>
