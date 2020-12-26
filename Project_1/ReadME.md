@@ -6,14 +6,16 @@
       <h2>HTML Project</h2>
     </header>
     <form>
-      <label for="email">Email:</label><br>
-      <input type="text" id="email" name="email"><br>
-      <label for="phno">Number:</label><br>
-      <input type="text" id="phno" name="phno"><br>
-      <label for="fname">First name:</label><br>
-      <input type="text" id="fname" name="fname"><br>
-      <label for="lname">Last name:</label><br>
-      <input type="text" id="lname" name="lname"><br>
+      <ul>
+        <li><label for="email">Email:</label><br>
+          <input type="text" id="email" name="email"><br></li>
+        <li><label for="phno">Number:</label><br>
+          <input type="text" id="phno" name="phno"><br></li>
+        <li><label for="fname">First name:</label><br>
+          <input type="text" id="fname" name="fname"><br></li>
+        <li><label for="lname">Last name:</label><br>
+          <input type="text" id="lname" name="lname"><br></li>
+      </ul>
       <input type="submit" value="Submit">
       <input type="button" value="OK">
      </form>
