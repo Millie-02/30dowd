@@ -54,8 +54,8 @@
     colour: #C0C0C0;
     border: 1px dotted #808080;
    }
- </style>
-    </head>
+  </style>
+  </head>
   <body>
   <header>
       <h1>Barebones Portfolio</h1>
