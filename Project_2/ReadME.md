@@ -1,6 +1,6 @@
 <!DOCTYPE html>
   <html>
-  <body>
+  <head>
   <style>
     body{
       background-image: url(“sunflowers.jpg”);
@@ -55,6 +55,8 @@
     border: 1px dotted #808080;
    }
  </style>
+    </head>
+  <body>
   <header>
       <h1>Barebones Portfolio</h1>
       <h2>HTML Project</h2>
